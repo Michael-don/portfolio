@@ -1,0 +1,38 @@
+header {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 155px;
+    background-color: #1d809f;
+
+}
+
+
+header h1 {
+    margin: 0;
+    font-size: 50px;
+    color: gray(33,37,41);
+    text-transform: uppercase;
+}
+
+header p {
+    font-weight: 700;
+    color: rgb(33,37,41);
+    font-size: 30px;
+    margin-bottom: 30px;
+    text-transform: capitalize;
+
+}
+
+header a {
+    box-shadow: 0 3px 3px 0 rgba(0,0,0,.1);
+    font-weight: 700;
+    background-color: gray;
+    border-color: black;
+    color:white;
+    padding: 1.25rem 2.5rem;
+    text-decoration: none;
+    border-radius: 25rem;
+    display: inline-block;
+
+}

@@ -1,0 +1,64 @@
+.about {
+    background-color: gray;
+    padding-top: 100px;
+    padding-bottom: 155px;
+    text-align: center;
+}
+
+
+
+.about h2 {
+    font-size: 70px;
+    text-transform: uppercase;
+    color: #1d809f;
+    margin: 0;
+    margin-bottom: 30px;
+    padding: 0;
+}
+
+.about h1 {
+    font-size:  30px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+
+.about p {
+    font-size: 20px;
+    text-transform: capitalize;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.row {
+    text-align: center;
+    text-transform: capitalize;
+    padding-top: 100px;
+    padding-left: 30px;
+}
+.education h1 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.education {
+    text-align: left;
+    font-size: 10px;
+}
+
+
+
+.skills {
+    text-align: left;
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+.skills i {
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.skills h1 {
+    text-align: center;
+}
